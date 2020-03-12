@@ -9,7 +9,7 @@
 	<name>selenium-cucumber-java</name>
 
 	<dependencies>
-		<!-- These are the cucumber dependencies -->
+		<!-- These are the cucumber   dependencies -->
 		<dependency>
 			<groupId>info.cukes</groupId>
 			<artifactId>cucumber-java</artifactId>
